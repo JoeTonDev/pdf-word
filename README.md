@@ -1,1 +1,1 @@
-Python script to convert Word file to PDF format.
+A Python script to convert Word files to PDF format.
